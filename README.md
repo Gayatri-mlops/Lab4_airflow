@@ -133,11 +133,6 @@ Include screenshots here, for example:
 * DAG view (`customer_churn_pipeline`)
 * Graph view showing all green tasks
 * Airflow Web UI running at `http://localhost:8080/home`
+Screenshots from the successful execution of the customer_churn_pipeline DAG are included in the Results/ folder.
 
-Future Enhancements
-
-* Add **MLflow** integration for model tracking
-* Implement **auto-scheduling** with CRON (`@daily`)
-* Push metrics to **Grafana dashboard** for monitoring
-* Extend to include **hyperparameter tuning** and **feature importance logging**
 
